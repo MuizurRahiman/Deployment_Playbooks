@@ -1,2 +1,2 @@
 # Sep_DevOps_Class
-To understand what is GIT
+To understand what is GIT concepts
